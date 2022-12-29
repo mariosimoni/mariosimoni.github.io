@@ -8,5 +8,6 @@ image: cover.jpg
 #    - Example Category
 #tags:
 #   - Example Tag
+math: true
 ---
-
+$\mathcal{H} = \int \psi^\dag H \psi d^{3}x$
