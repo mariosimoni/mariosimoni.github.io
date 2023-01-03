@@ -16,6 +16,6 @@ hasCJKLanguage = false
 #disqusShortname = "hugo-theme-stack"
 
 [sitemap]
-  changefreq = 'hourly'
+  changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
