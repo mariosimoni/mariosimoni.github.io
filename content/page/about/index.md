@@ -5,7 +5,8 @@ date: 2022-03-06
 #slug: "archives"
 menu:
     main:
-        weight: 5
+        weight: 2
         params: 
-            icon: archives
+            icon: about-icon
 ---
+ciao
