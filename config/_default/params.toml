@@ -3,6 +3,9 @@ mainSections = ["post"]
 # Output page's full content in RSS (if true).
 rssFullContent = false
 
+# Set favicon for the tab.
+favicon = "/images/atom.png"
+
 [footer]
 since = 2020
 customText = ""

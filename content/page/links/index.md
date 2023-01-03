@@ -34,7 +34,6 @@ comments: false
 - C. Caputo, “[A hardware-model-based simulator for Quantum Key Distribution systems employing photon polarization encoding](https://webthesis.biblio.polito.it/20372/)”,  M. S. thesis,  Politecnico di Torino,  Torino,  Italy, 2021.
 - M. Manfredi, “[Proposal for a multi-technology, template-based quantum circuits compilation toolchain](https://webthesis.biblio.polito.it/19223/)”,  M. S. thesis,  Politecnico di Torino,  Torino,  Italy, 2021.
 
-## Teaching
+## Reviews
 
-- Laboratory assitant at the M. S. course "[Sistemi Digitali Integrati](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01NNIOQ&p_a_acc=2023&p_header=S&p_lang=&multi=N)", prof Ruo Roch, Politecnico di Torino, 2022/2023.
-- Laboratory assitant at the M. S. course "[Sistemi Digitali Integrati](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01NNIOQ&p_a_acc=2022&p_header=S&p_lang=IT&multi=N)", prof Ruo Roch, Politecnico di Torino, 2021/2022.
+- [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)

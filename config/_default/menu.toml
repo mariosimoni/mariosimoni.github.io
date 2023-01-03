@@ -8,6 +8,22 @@
 #newtab = true
 
 [[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/mariosimoni/"
+
+[social.params]
+icon = "linkedin-icon"
+
+[[social]]
+identifier = "google-scholar"
+name = "Google Scholar"
+url = "https://scholar.google.com/citations?user=LWmFbnAAAAAJ&hl=it"
+
+[social.params]
+icon = "scholar-icon"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/mariosimoni"
@@ -16,9 +32,9 @@ url = "https://github.com/mariosimoni"
 icon = "brand-github"
 
 [[social]]
-identifier = "linkedin"
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/mariosimoni/"
+identifier = "email"
+name = "email"
+url = "mailto:mario.simoni@polito.it"
 
 [social.params]
-icon = "linkedin-icon"
+icon = "mail-icon"
