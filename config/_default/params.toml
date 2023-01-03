@@ -4,7 +4,7 @@ mainSections = ["post"]
 rssFullContent = false
 
 # Set favicon for the tab.
-favicon = "/images/atom.png"
+favicon = "/images/atom-icon.svg"
 
 [footer]
 since = 2020
